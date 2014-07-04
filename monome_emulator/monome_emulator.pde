@@ -17,6 +17,8 @@
 import oscP5.*;
 import netP5.*;
 
+import java.awt.event.KeyEvent;
+
 // monome emulator size
 static final int W = 32;
 static final int H = 16;
